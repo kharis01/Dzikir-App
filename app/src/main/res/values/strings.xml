@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Do\'a &amp; Dzikir</string>
+
+    <string name="txt_judul_fitur">Kumpulan Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah_qauliyah">Sunnah-Sunnah Qauliyah \nDzikir &amp; Doa Shalat</string>
+    <string name="txt_dzikir_setiap_saat">Dzikir Setiap Saat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+    <string name="txt_artikel_islami">Artikel Islami</string>
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+
+    <string name="content_txt_icon_dzikir_pagi_petang">Icon Dzikir Pagi Petang</string>
+    <string name="content_txt_icon_dzikir_doa_harian">Icon Dzikir Doa Harian</string>
+    <string name="content_txt_icon_dzikir_setiap_saat">Icon Dzikir Setiap Saat</string>
+    <string name="content_txt_icon_qauliyah_shalat">Icon Qauliyah Shalat</string>
+    <string name="content_txt_icon_btn_dzikir_pagi">Icon btn dzikir Pagi</string>
+    <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
+    <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
+    <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+
+    <string-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/artikel_2</item>
+        <item>@drawable/artikel_3</item>
+        <item>@drawable/artikel_4</item>
+        <item>@drawable/artikel_5</item>
+        <item>@drawable/artikel_6</item>
+        <item>@drawable/artikel_7</item>
+        <item>@drawable/artikel_8</item>
+    </string-array>
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Jangan Teperdaya dengan Ilusi Dunia</item>
+        <item>Hakikat waktu bagi seorang muslim</item>
+        <item>Peran Pemuda Muslim di Zaman Milenial</item>
+        <item>Tuntunan Islam untuk Menjaga Lingkungan</item>
+        <item>Lisan Itu Mempengaruhi Amal</item>
+        <item>Istimewanya Ibadah Muhasabah</item>
+        <item>Bersyukur kepada Manusia</item>
+    </string-array>
+
+    <string-array name="arr_desc_artikel">
+        <item>
+            Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.
+        </item>
+        <item>
+                Saudaraku, jangan mudah teperdaya dengan apa yang kita lihat di permukaan. Orang yang tampak bahagia dan bebas dari cobaan belum tentu lebih baik kedudukannya di sisi Allah. Dan orang yang penuh cobaan, jika dia bersabar, mungkin justru mendapat cinta dan rida Allah.\n\n
+                Sebagai umat muslim, kita harus selalu mengintrospeksi diri dan memastikan bahwa kita tidak terjebak dalam ilusi dunia. Semoga kita selalu diberikan hidayah untuk selalu dekat dengan Allah, menjauhi dosa, dan bersabar dalam setiap ujian. Amin.\n\n
+                Dalam setiap nafas dan detik kehidupan, ada hikmah yang Allah sematkan bagi hamba-Nya. Setiap kejadian, baik yang tampak indah maupun yang tampak menyakitkan, memiliki pelajaran yang mungkin tersembunyi di balik tabir kehidupan.\n\n
+                Seperti emas yang mesti melewati proses pemurnian dengan api sebelum ia berkilau, demikian pula jiwa kita. Ujian dan cobaan adalah cara Allah memurnikan, menguatkan, dan mendekatkan kita pada-Nya. Dengan demikian, kita semestinya tidak hanya fokus pada apa yang tampak, tetapi mencari makna yang lebih dalam dari setiap peristiwa.\n\n
+                Penting pula bagi kita untuk selalu menjaga hati dan niat dalam setiap tindakan. Karena bukan hanya perbuatan yang dilihat Allah, tetapi juga niat dan isi hati kita. Bisa jadi seseorang tampak bahagia dan sejahtera di mata dunia, namun hatinya kosong dan jauh dari keberkahan.\n\n
+                Sebaliknya, seseorang yang tampak dilanda cobaan, namun hatinya penuh dengan kesabaran dan tawakal, mungkin mendapat tempat yang istimewa di sisi Allah. Oleh karena itu, jangan hanya menilai dari luarnya saja, tetapi introspeksi dan perbaiki selalu isi hati dan niat kita. Sehingga kita bisa menjalani hidup dengan penuh makna dan berkah.
+        </item>
+        <item>
+            Berbicara tentang hakikat “waktu”, maka sejatinya ia adalah umur manusia dan masa hidupnya. Tahun demi tahun, bulan demi bulan, hari demi hari, semuanya merupakan modal investasi yang Allah Ta’ala berikan kepada hamba-Nya di kehidupan dunia ini. Mengapa demikian? Karena tidaklah satu hari berlalu dari kehidupan kita, kecuali umur kita pun ikut berkurang.\n\n
+
+            Ibnul Qayyim rahimahullah pernah mengatakan tentang hakikat waktu ini,\n\n
+
+            “Waktu seseorang hakikatnya adalah umur kehidupannya. Dan itu akan menjadi modal serta kesempatan untuk meraih kehidupan abadinya dalam kebahagiaan abadi, atau menjadi sebab keberadaannya yang menyedihkan dalam siksa yang pedih.\n\n
+
+            Dan waktu berlalu seperti awan. Jika waktunya tersebut dia habiskan untuk Allah dan di sisi Allah, maka itulah (hakikat) kehidupan yang sebenarnya. Dan jika untuk selain itu, maka tidak dihitung sebagai bagian dari hidupnya, sekalipun dia menjalani kehidupannya seperti hewan ternak (hanya makan, minum, dan tidur saja).\n\n
+
+            Dan jika dia habiskan waktunya untuk melakukan sesuatu yang sia-sia dan melalaikan serta dipenuhi dengan harapan-harapan palsu, dan cara terbaik yang bisa dia lakukan untuk melewatinya hanyalah dengan tidur dan bermalas-malasan saja, maka matinya orang tersebut lebih baik dari pada hidupnya.” (Al-Jawab Al-Kafi)\n\n
+
+            Ketahuilah, bahwa waktu kosong dan senggang yang sering kita rasakan, pada kenyataannya adalah kesempatan yang bisa saja diisi dengan kebaikan ataupun keburukan. Disadari ataupun tidak, tidak ada satu momen pun yang berlalu dalam hidup kita, kecuali pasti ada aktifitas dan kesibukan yang kita kerjakan. Maka dari itu, berusahalah untuk menjadikan waktu yang kita miliki sebagai tabungan dan investasi amal kebaikan yang akan menjadi bekal kita ketika bertemu dengan Allah Ta’ala.
+        </item>
+        <item>
+            Pertama: Lakukan hal positif\n\n
+            Yaitu, dengan melakukan hal positif yang sesuai dengan syariat, tentunya apa yang sudah tertuang dalam ajaran islam, seperti halnya mencari ilmu, ikut agenda-agenda dakwah, mengikuti agenda yang bermanfaat, serta mengamalkan amalan saleh.\n\n
+
+            Kedua: Membentengi diri\n\n
+            Yaitu, dengan berbagai kondisi dan syubhat yang ada. Kita dianjurkan untuk senantiasa berhati-hati dan membentengi diri serta mempertebal keimanan kita untuk mengantisipasi berbagai hal yang dapat meracuni keimanan dan pemikiran.\n\n
+
+            Ketiga: Menjaga akhlak\n\n
+            Menjadi pemuda yang berakhlak mulia dan beradab itu bagaikan buih di tengah lautan. Ia sulit ditemui dan sulit didapatkan. Maka, senantiasa berusaha untuk selalu ber-akhlakul karimah sebagaimana telah dicontohkan oleh teladan kita, yakni Rasulullah Muhammad shallallahu ‘alaihi wassallam, seperti: tawadhu (rendah hati), lemah lembut, sabar, berbuat baik kepada orang lain, dan memaafkan kesalahan orang yang berbuat buruk pada kita dan membalasnya dengan kebaikan.\n\n
+
+            Keempat: Menjaga hubungan dengan keluarga\n\n
+            Patuh terhadap orang tua adalah bagian dari kita menjaga diri di era yang penuh ujian dan era penuh kerusakan saat ini. Yakni, sebagai rumah untuk pulang dan doa yang tidak tertolak oleh Allah Ta’ala. Ini menjadi kunci utama untuk kita agar senantiasa menerapkan birrul walidain dan meminta doa akan diberikan kemudahan dalam menjalankan syariat-Nya dan menjalani pahitnya hidup.\n\n
+
+            Kelima: Menjaga hubungan dengan masyarakat\n\n
+            Menjaga hubungan sosial tidak kalah penting, seperti halnya kita menjaga hubungan kita terhadap diri dan keluarga. Hubungan ini yang kemudian bisa menjaga kesalehan sosial kita. Hal ini juga sudah banyak dicontohkan oleh Rasulullah, bagaimana beliau bermuamalah dengan sahabatnya, dengan para pengikutnya, dan termasuk berbuat baik pada orang yang berbuat buruk padanya.\n\n
+
+            Semoga dari tulisan yang sedikit ini mampu mengalirkan keikhlasan dari penulis dan mengalirkan keberkahan dari Allah Ta’ala untuk kaum muslimin sekalian yang hari ini hidup di zaman penuh ujian. Semoga Allah menjaga kita, anak-anak kita, sanak saudara kita, dan orang di sekitar kita. Amin.
+        </item>
+        <item>
+            Perintah untuk tidak menjadi pembawa kerusakan di bumi\n\n
+            Dalam beberapa ayat di Al-Qur’an, Allah ‘Azza Wajalla secara tegas melarang umat-Nya dari membuat kerusakan atau berbuat onar di muka bumi. Meskipun ayat yang menjelaskan tentang ketidakcintaan Allah kepada orang-orang yang berbuat kerusakan ditujukan utama kepada orang-orang musyrik, yang berbuat maksiat, munafik, dan seterusnya, namun tidak lantas menjadi pembenar kerusakan lain di bawah kerusakan-kerusakan tersebut.\n\n
+
+            Syekh Abdullah Az-Zahim hafidzahullahu menjelaskan,\n\n
+
+            فالإفساد يدخل في جوانب متعددة من نواحي الحياة، كما أن ميدان الإصلاح واسع وشامل، فلا يمكن بأي حال من الأحوال قصر الإصلاح على جوانب محددة، بل هو عملية متكاملة تدخل جميع جوانب الحياة، ابتداء من نشر التوحيد ومحاربة الشرك، ثم تعليم الناس العبادات والمعاملات والأخلاق، بناء على أسس وقواعد شرعية\n\n
+
+            فالإصلاح لم يدع شاردة ولا واردة مما يمس حياة الناس الخاصة والعامة، الفردية والجماعية، القريبة والبعيدة، الداخلية والخارجية، إلا وشملها.   هذا منهج النبي صلى الله عليه وسلم، ومن بعده خلفاؤه الراشدون، ساروا على نهجه، ثم تبعهم من خلفهم من الخلفاء والعلماء على مر العصور، كانوا يسعون إلى الإصلاح في كل باب من أبواب الحياة، وفي كل فن من الفنون.\n\n
+
+            “Berbuat onar atau kerusakan berlaku di semua lini kehidupan. Sebagaimana berbuat kebaikan juga mencakup makna yang luas. Tidak mungkin membatasi kebaikan pada ruang tertentu. Bahkan, islah berlaku di semua lini kehidupan seseorang, dimulai dari menyebarkan tauhid, memerangi kesyirikan, mengajarkan manusia tentang ibadah, muamalah, dan akhlak. Berdasarkan kaidah-kaidah dan prinsip-prinsip Islam. Maka, semua hal baik yang menyangkut kebaikan individu dan orang banyak, umum maupun khusus, dekat maupun jauh, internal maupun eksternal, tercakup dalam makna islah. Dan inilah metode Nabi Muhammad shallallahu ‘alaihi wasallama dan orang-orang yang datang setelah beliau seperti para khulafaurrasyidin. Mereka berbuat baik di setiap cabang atau lini kehidupan tanpa terkecuali.” \n\n
+
+            Dan hal ini dikemukakan oleh Syekh Muhammad bin Shalih Al-‘Utsaimin rahimahullahu ketika menjelaskan firman Allah ‘Azza Wajalla,\n\n
+
+            وَاِذَا قِيْلَ لَهُمْ لَا تُفْسِدُوْا فِى الْاَرْضِۙ قَالُوْٓا اِنَّمَا نَحْنُ مُصْلِحُوْنَ\n\n
+
+            “Apabila dikatakan kepada mereka, ‘Janganlah berbuat kerusakan di bumi!’, mereka menjawab, ‘Sesungguhnya kami hanyalah orang-orang yang melakukan perbaikan.’” (QS. Al-Baqarah: 11)\n\n
+
+            “Kerusakan di bumi terbagi menjadi dua macam, kerusakan fisik seperti menghancurkan rumah-rumah, merusak jalan, atau yang semisalnya yang dilakukan oleh sebagian orang yang menganggap hal tersebut sebagai sebuah kebaikan. Sejatinya mereka tengah berbuat kerusakan. Jika tidak dianggap sebagai kerusakan, maka apa yang salah dari rumah? Atau jalan-jalan sehingga harus dihancurkan? Sejatinya mereka yang berbuat demikian adalah perusak yang sejati.”\n\n
+
+            Semoga Allah Ta’ala jadikan kita sebagai muslim yang senantiasa menjaga kebaikan dan menjauhkan manusia dari kerusakan. Amin
+        </item>
+        <item>
+            Perkataan seseorang akan berpengaruh pada baik atau buruknya amalan orang tersebut. Allah Ta’ala berfirman,\n\n
+
+            يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلا سَدِيدًا يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا \n\n
+
+            “Hai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan yang benar, niscaya Allah memperbaiki bagimu amalan-amalanmu dan mengampuni bagimu dosa-dosamu. Dan barang siapa menaati Allah dan Rasul-Nya, maka sesungguhnya ia telah mendapat kemenangan yang besar.” (QS. Al-Ahzab: 70-71)\n\n
+
+            Dari ayat di atas, dapat diketahui bahwa bukti ketakwaan adalah dengan mengucapkan perkataan yang benar (lurus). Dan jika perkataan seseorang itu baik dan benar, niscaya Allah akan memperbaiki amalannya dan mengampuni dosa-dosanya. Jika di antara kita masih merasa berat dalam melakukan amal ketaatan, seperti salat tahajud, salat duha, membaca Al-Qur’an, sedekah, dan semisalnya, maka kemungkinan ada kalimat-kalimat yang buruk dan tidak semestinya keluar dari lisannya.\n\n
+
+            Bahkan, dalam suatu hadis Nabi shallallahu ‘alaihi wasallam pernah mengabarkan bahwa setiap pagi anggota tubuh akan mewanti-wanti lisan,\n\n
+
+            إِذَا أَصْبَحَ ابْنُ آدَمَ فَإِنَّ الْأَعْضَاءَ كُلَّهَا تُكَفِّرُ اللِّسَانَ فَتَقُولُ : اتَّقِ اللَّهَ فِينَا فَإِنَّمَا نَحْنُ بِكَ ؛ فَإِنْ اسْتَقَمْتَ اسْتَقَمْنَا ، وَإِنْ اعْوَجَجْتَ اعْوَجَجْنَا\n\n
+
+            “Jika manusia berada di waktu pagi, maka semua anggota badannya tunduk pada lisan. Mereka berkata, ‘Wahai lisan, bertakwalah kepada Allah dalam urusan kami. Karena sesungguhnya kami tergantung pada dirimu. Jika kamu bersikap lurus, maka kami pun akan lurus. Namun, jika engkau menyimpang, maka kami pun akan menyimpang.’“ (HR. Tirmidzi, sahih)\n\n
+
+            Seorang salaf bernama Yahya bin Abi Katsir rahimahullah mengatakan bahwa ada dua sifat, yang apabila Anda melihat keduanya ada pada diri seseorang, ketahuilah apa yang di belakang keduanya (amalannya) pasti lebih baik lagi: 1) Bila dia mampu mengendalikan lisannya; dan 2) Dia selalu menjaga salatnya. (Ash-Shamt, Ibnu Abid Dunya, hal. 264)\n\n
+
+            Semoga kita termasuk orang-orang yang bisa menjaga lisan dan tulisan agar selamat di dunia dan akhirat. Amin
+        </item>
+        <item>
+            Muhasabah: Ibadahnya orang-orang pilihan\n\n
+            Hanya orang yang diberikan hidayah yang bisa melakukan amal muhasabah ini. Mayoritas amal ibadah bisa jadi ada motivasi unsur duniawi, seperti doa, ikhtiar, dan tawakal, karena ingin dicukupkan rezekinya; atau sedekah dan salat karena ada niatan agar terlihat dermawan dan saleh. Sedangkan amal muhasabah ini sangat kecil kemungkinan ada unsur duniawinya karena hanya dia dan Allahlah yang mengetahui kondisi hati.\n\n
+
+            Allah Ta’ala berfirman,\n\n
+
+            بَلِ ٱلْإِنسَٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ\n\n
+
+            “Bahkan, manusia itu menjadi saksi (mengerti) atas dirinya sendiri.” (QS. Al-Qiyamah: 14)\n\n
+
+            Muhasabah: Dilakukan saat orang lain sedang lalai\n\n
+            Kebanyakan orang melakukan muhasabah ketika malam hari dalam kondisi yang sepi. Dan malam hari banyak digunakan manusia untuk tidur dan lalai melakukan ketaatan. Padahal, ibadah yang dilakukan saat mayoritas orang sedang lalai memiliki keutamaan yang besar.\n\n
+
+            Hal ini sebagaimana Nabi shallallahu ‘alaihi wasallam suka memperbanyak puasa di bulan Sya’ban di mana banyak orang lalai berpuasa saat itu.\n\n
+
+            Suatu ketika, Nabi shallallahu ‘alaihi wasallam ditanya oleh Usamah bin Zaid,\n\n
+
+            عن أُسَامَةُ بْنُ زَيْدٍ، قَالَ: قُلْتُ: يَا رَسُولَ اللَّهِ، لَمْ أَرَكَ تَصُومُ شَهْرًا مِنَ الشُّهُورِ مَا تَصُومُ مِنْ شَعْبَانَ، قَالَ: ذَلِكَ شَهْرٌ يَغْفُلُ النَّاسُ عَنْهُ بَيْنَ رَجَبٍ وَرَمَضَانَ، وَهُوَ شَهْرٌ تُرْفَعُ فِيهِ الْأَعْمَالُ إِلَى رَبِّ الْعَالَمِينَ، فَأُحِبُّ أَنْ يُرْفَعَ عَمَلِي وَأَنَا صَائِمٌ\n\n
+
+            Dari Usamah bin Zaid, ia berkata, “Aku bertanya pada Rasulullah, ‘Wahai Rasulullah, aku tak melihat engkau berpuasa dalam sebulan sebagaimana engkau lakukan di bulan Sya’ban.’ Rasulullah menjawab, ‘Bulan itu (Sya’ban) adalah bulan yang banyak orang lalai darinya, karena berada di antara bulan Rajab dan Ramadan. Pada bulan Sya’ban, amalan diangkat kepada hadirat Allah, maka aku ingin amalanku diangkat selagi aku sedang berpuasa.’” (HR. Abu Dawud dan An Nasa’i, disahihkan oleh Ibnu Khuzaimah)\n\n
+
+            Bahkan, salat sunah yang paling utama adalah salat yang dilakukan pada malam hari karena banyak manusia lalai dari beribadah dan sedang terlelap tidur.\n\n
+
+            Nabi shallallahu ‘alaihi wasallam bersabda,\n\n
+
+            وَأفْضَلُ الصَّلاَةِ بَعْدَ الفَرِيضَةِ : صَلاَةُ اللَّيْلِ\n\n
+
+            “Salat yang paling utama setelah salat wajib adalah salat malam.” (HR. Muslim)\n\n
+
+            Belajar menghisab diri\n\n
+            Kita hidup berjalan terus menuju kematian, tak pernah berhenti, bahkan tak akan bisa mundur kembali.\n\n
+
+            Umar bin Khattab radhiyallaahu ‘anhu berkata,\n\n
+
+            حاسبوا أنفسكم قبل أن تحاسبوا\n\n
+
+            “Hisablah diri kalian sebelum kalian dihisab (kelak pada hari kiamat).”\n\n
+
+            Seseorang yang senantiasa mengintropeksi dirinya di dunia, maka ia akan tahu amal buruk mana yang harus ditinggalkan dan amal kebaikan apa yang harus dipertahankan, sehingga akan mempermudah hisab (timbangan) di hari kiamat nanti.
+        </item>
+        <item>
+            Jika tangan terlalu pendek untuk membalas, maka panjangkanlah lisan untuk mendoakan\n\n
+            Nabi shallallahu ‘alaihi wassallam memerintahkan kepada kita untuk berterima kasih kepada orang yang telah memberikan kebaikan, apa pun itu bentuknya sebagaimana dalam hadis dari Jabir bin Abdillah radhiyallahu ‘anhu,\n\n
+
+            مَنْ أُعْطِىَ عَطَاءً فَوَجَدَ فَلْيَجْزِ بِهِ فَإِنْ لَمْ يَجِدْ فَلْيُثْنِ بِهِ فَمَنْ أَثْنَى بِهِ فَقَدْ شَكَرَهُ وَمَنْ كَتَمَهُ فَقَدْ كَفَرَهُ\n\n
+
+            “Barangsiapa yang diberikan sebuah hadiah, lalu ia mendapati kecukupan, maka hendaknya ia membalasnya. Jika ia tidak mendapati (sesuatu untuk membalasnya), maka pujilah ia. Barangsiapa yang memujinya, maka sungguh ia telah bersyukur kepadanya. Barangsiapa menyembunyikannya, sungguh ia telah kufur.” (HR. Abu Daud dengan sanad sahih, lihat Silsilah Al-Ahadits Ash-Shahihah no. 617)\n\n
+
+            Memuji seperti apa yang dimaksud dalam hadis di atas? Hal ini sebagaimana sabda Nabi shallallahu ‘alaihi wassallam dalam hadis yang lain,\n\n
+
+            عَنْ أُسَامَةَ بْنِ زَيْدٍ قَالَ قَالَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- « مَنْ صُنِعَ إِلَيْهِ مَعْرُوفٌ فَقَالَ لِفَاعِلِهِ جَزَاكَ اللَّهُ خَيْرًا فَقَدْ أَبْلَغَ فِى الثَّنَاءِ ».\n\n
+
+            Usamah bin Zaid berkata, “Rasulullah shallallahu ‘alaihi wasallam bersabda, ‘Barangsiapa yang mendapatkan kebaikan, lalu ia mengatakan kepada pelakunya, ‘Jazakallah khairan (semoga Allah membalasmu dengan kebaikan), maka sungguh ia telah benar-benar meninggikan pujian.’” (HR. Tirmidzi, lihat Shahih Al-jami’ no. 6368)\n\n
+
+            Mengharapkan terima kasih dari orang lain\n\n
+            Seorang muslim ketika dapat memberikan sesuatu (berjasa) kepada orang lain, tidak selayaknya ia berharap dan menunggu balasan (ucapan) terima kasih dari orang lain. Cukuplah yang ditunggu adalah balasan pahala dari Allah Ta’ala.\n\n
+
+            Allah Ta’ala berfirman,\n\n
+
+            فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ\n\n
+
+            “Barangsiapa yang mengerjakan kebaikan seberat dzarrah pun, niscaya dia akan melihat (balasan)nya.” (QS. Az-Zalzalah: 7)\n\n
+
+            Namun, jika kita sebagai penerima hadiah dan kebaikan dari orang lain, maka tetap dianjurkan untuk mendokan dan memuji orang tersebut sebagaimana hadis yang telah disampaikan sebelumnya.
+        </item>
+    </string-array>
+
+    <string-array name="arr_dzikir_doa_harian">
+        <item>Sebelum tidur</item>
+        <item>Ketika mimpi buruk</item>
+        <item>Bangun tidur</item>
+        <item>Masuk WC/kamar mandi</item>
+        <item>Keluar WC/kamar mandi</item>
+        <item>Sebelum wudhu</item>
+        <item>Setelah wudhu</item>
+        <item>Mengenakan pakaian</item>
+        <item>Melepas pakaian</item>
+        <item>Keluar rumah</item>
+        <item>Masuk rumah</item>
+        <item>Pergi ke Masjid</item>
+        <item>Masuk ke Masjid</item>
+        <item>Keluar dari Masjid</item>
+        <item>Ketika mendengar Adzan</item>
+        <item>Setelah adzan</item>
+        <item>Bersin</item>
+        <item>Kepada orang yang berbuat baik kepadamu</item>
+        <item>Ketika marah</item>
+    </string-array>
+
+    <string-array name="arr_lafaz_dzikir_doa_harian">
+        <item>Mengumpulkan dua telapak tangan, lalu ditiup dan dibacakan:\n\nSurat Al-Ikhlas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾ \n\nSurat Al-Falaq:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَۙ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ﴿٣﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾ \n\nAn-Naas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ﴿١﴾ مَلِكِ النَّاسِۙ ﴿٢﴾ اِلٰهِ النَّاسِۙ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ﴿٤﴾ الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾\nAyat Kursi:\nٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ\nKetika sudah berbaring baca doa:\nاَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ\n\nبِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ</item>
+        <item>Membaca isti\'adzah:\nأَعُوذُ بِاَللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِْ\nlalu meludah tipis (meniup disertai sedikit liur) ke sebelah kirinya sebanyak tiga kali.\nDemikian juga merubah posisi tidur. Bahkan dianjurkan untuk bangun dan shalat.</item>
+        <item>الحَمْدُ ِللهِ الَّذِي أَحْيَاناَ بَعْدَ مَا أَمَاتَنَا وَ إِلَيْهِ النُّشُوْرُ</item>
+        <item>اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ</item>
+        <item>غُفْرَانَكَ</item>
+        <item>بسم الله</item>
+        <item>Pertama:\nأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ\n\nKedua:\nسُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ</item>
+        <item>اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ</item>
+        <item>بسم الله</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</item>
+        <item>Pertama:\nبسم الله\n\Kedua:\nالسلام عليكم</item>
+        <item>اللّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْراً، وَفِي لِسَانِي نُوْراً، وَاجْعَلْ وَفِي سَمْعِي نُوْراً، وَاجْعَلْ فِي بَصَرِي نُوْراً، وَاجْعَلْ مِنْ خَلْفِي نُوْراً، وَمِنْ أَمَامِي نُوْراً، وَاجْعَلْ مِنْ فَوْقِي نُوْراً، وَمِنْ تَحْتِي نُوْراً، اللّهُمَّ أَعْطِنِي نُوْراً</item>
+        <item>Pertama:\nاللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKedua:\nوَالصَّلَاةُ وَالسَّلاَمُ عَلَى رَسُولِ اللهِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKetiga:\nأَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+        <item>اللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ</item>
+        <item>Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat:\nHayya \'alash shalaah\n\ndan\n\nHayya \'alal falaah. Maka mengucapkan:\nلاحول ولا قوة الا بالله</item>
+        <item>اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ</item>
+        <item>Yang bersin mengucapkan:\nالحمد لله\nYang mendengar hamdalah mengucapkan:\nيَرْحَمُكَ اللهُ\nBila teman atau saudaranya mengucapkan (yarhamukallah), maka yang bersin membalas dengan:\nيَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</item>
+        <item>جزاك الله خيراً</item>
+        <item>أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+    </string-array>
+
+    <string-array name="arr_terjemah_dzikir_doa_harian">
+        <item>Surat Al-Ikhlas:\n\"Katakanlah: Dialah Allah Yang Maha Esa. Allah adalah ilah yang bergantung kepada-Nya segala urusan. Dia tidak beranak dan tiada pula diperanakkan. Dan tidak ada seorang pun yang setara dengan Dia.\"\n\nSurat Al-Falaq:\n\"Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. Dari kejahatan makhluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.\"\n\nAn-Naas:\n\"Katakanlah: Aku berlindung kepada Rabb manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada manusia. Dari jin dan manusia.\"\n\nAyat Kursi:\n\"Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa\'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang dia hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah melliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar.\"\n\nKetika sudah berbaring baca doa:\n\"Ya Allah, aku serahkan jiwaku kepada-mu, aku hadapkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu, aku sandarkan punggungku kepada-Mu, karena mengharapkan (pahala-Mu) dan takut (adzab-Mu). Tiada tempat bersandar dan menyelamatkan diri dari (hukuman)-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus.\"\n\n\"Dengan nama Engkau, wahai Rabbku, aku meletakkan lambungku. Dan dengan nama-Mu pula aku bangun dari padanya. Apabila Engkau menahan rohku maka berilah rahmat padanya. Tapi apabila Engkau melepaskannya maka peliharalah, sebagaimana Engkau memelihara hamba-hambaMu yang shalih.\"</item>
+        <item>\"Aku memohon perlindungan kepada Allah dari setan yang terkutuk.\"</item>
+        <item>\"Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dikumpulkan.\"</item>
+        <item>\"Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keburukan dan jin.\"</item>
+        <item>\"Aku minta ampun kepadaMu.\"</item>
+        <item>\"Dengan nama Allah (aku berwudhu).\"</item>
+        <item>Pertama:\n\"Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.\"\n\nKedua:\n\"Maha Suci Engkau ya Allah, aku memujiMu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan betaubat kepada-Mu.\"</item>
+        <item>\"Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.\"</item>
+        <item>\"Dengan nama Allah (aku meletakkan baju).\"</item>
+        <item>\"Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.\"</item>
+        <item>Pertama:\n\"Dengan nama Allah.\"\n\n\Kedua:\n\"Semoga keselamatan atas kalian.\"</item>
+        <item>\"Ya Allah, jadikanlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.\"</item>
+        <item>Pertama:\n\"Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKedua:\n\"Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKetiga:\n\"Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkuturk.\" </item>
+        <item>\"Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.\"</item>
+        <item>\"Tidak ada daya dan upaya kecuali dengan pertolongan Allah\"</item>
+        <item>\"Ya Allah, Rabb Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkan beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan.\"</item>
+        <item>(Alhamdulillah) artinya:\n\"Segala puji bagi Allah.\"\n\n(Yarhamukallah) artinya:\n\"Semoga Allah memberikan rahmat kepadamu.\"\n\n\"(Yahdiikumullaahu wa yushlihu baalakum) artinya:\n\"Semoga Allah memberi petunjuk kepadamu dan memperbaiki keadaanmu.\"</item>
+        <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
+        <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
+    </string-array>
+
+</resources>
